@@ -1,0 +1,55 @@
+port,option,scenario,variant,cost_low_eur,cost_mid_eur,cost_high_eur,be_year_low,be_year_mid,be_year_high
+Leixões,Option 1: Physical Flood-Proofing,SSP1-2.6,Baseline,35000000,47500000.0,60000000,2061,2067,2071
+Leixões,Option 1: Physical Flood-Proofing,SSP1-2.6,+Geoid,35000000,47500000.0,60000000,2042,2045,2048
+Leixões,Option 1: Physical Flood-Proofing,SSP2-4.5,Baseline,35000000,47500000.0,60000000,2051,2054,2056
+Leixões,Option 1: Physical Flood-Proofing,SSP2-4.5,+Geoid,35000000,47500000.0,60000000,2038,2041,2043
+Leixões,Option 1: Physical Flood-Proofing,SSP5-8.5,Baseline,35000000,47500000.0,60000000,2045,2047,2049
+Leixões,Option 1: Physical Flood-Proofing,SSP5-8.5,+Geoid,35000000,47500000.0,60000000,2036,2038,2039
+Leixões,Option 2: Landside Access Resilience,SSP1-2.6,Baseline,20000000,27500000.0,35000000,2053,2058,2061
+Leixões,Option 2: Landside Access Resilience,SSP1-2.6,+Geoid,20000000,27500000.0,35000000,2037,2040,2042
+Leixões,Option 2: Landside Access Resilience,SSP2-4.5,Baseline,20000000,27500000.0,35000000,2046,2048,2051
+Leixões,Option 2: Landside Access Resilience,SSP2-4.5,+Geoid,20000000,27500000.0,35000000,2035,2037,2038
+Leixões,Option 2: Landside Access Resilience,SSP5-8.5,Baseline,20000000,27500000.0,35000000,2041,2043,2045
+Leixões,Option 2: Landside Access Resilience,SSP5-8.5,+Geoid,20000000,27500000.0,35000000,2033,2035,2036
+Leixões,Option 3: Operational Resilience Protocol,SSP1-2.6,Baseline,10000000,15000000.0,20000000,2048,2054,2059
+Leixões,Option 3: Operational Resilience Protocol,SSP1-2.6,+Geoid,10000000,15000000.0,20000000,2036,2039,2042
+Leixões,Option 3: Operational Resilience Protocol,SSP2-4.5,Baseline,10000000,15000000.0,20000000,2043,2047,2050
+Leixões,Option 3: Operational Resilience Protocol,SSP2-4.5,+Geoid,10000000,15000000.0,20000000,2034,2036,2039
+Leixões,Option 3: Operational Resilience Protocol,SSP5-8.5,Baseline,10000000,15000000.0,20000000,2040,2043,2045
+Leixões,Option 3: Operational Resilience Protocol,SSP5-8.5,+Geoid,10000000,15000000.0,20000000,2033,2035,2036
+Lisbon,Option 1: Physical Flood-Proofing,SSP1-2.6,Baseline,30000000,40000000.0,50000000,2044,2047,2049
+Lisbon,Option 1: Physical Flood-Proofing,SSP1-2.6,+Geoid,30000000,40000000.0,50000000,2032,2033,2035
+Lisbon,Option 1: Physical Flood-Proofing,SSP2-4.5,Baseline,30000000,40000000.0,50000000,2039,2041,2043
+Lisbon,Option 1: Physical Flood-Proofing,SSP2-4.5,+Geoid,30000000,40000000.0,50000000,2031,2032,2033
+Lisbon,Option 1: Physical Flood-Proofing,SSP5-8.5,Baseline,30000000,40000000.0,50000000,2036,2038,2039
+Lisbon,Option 1: Physical Flood-Proofing,SSP5-8.5,+Geoid,30000000,40000000.0,50000000,2030,2031,2032
+Lisbon,Option 2: Landside Access Resilience,SSP1-2.6,Baseline,25000000,35000000.0,45000000,2042,2046,2048
+Lisbon,Option 2: Landside Access Resilience,SSP1-2.6,+Geoid,25000000,35000000.0,45000000,2031,2033,2034
+Lisbon,Option 2: Landside Access Resilience,SSP2-4.5,Baseline,25000000,35000000.0,45000000,2038,2040,2042
+Lisbon,Option 2: Landside Access Resilience,SSP2-4.5,+Geoid,25000000,35000000.0,45000000,2030,2031,2032
+Lisbon,Option 2: Landside Access Resilience,SSP5-8.5,Baseline,25000000,35000000.0,45000000,2035,2037,2038
+Lisbon,Option 2: Landside Access Resilience,SSP5-8.5,+Geoid,25000000,35000000.0,45000000,2030,2030,2031
+Lisbon,Option 3: Operational Resilience Protocol,SSP1-2.6,Baseline,12000000,17000000.0,22000000,2036,2040,2042
+Lisbon,Option 3: Operational Resilience Protocol,SSP1-2.6,+Geoid,12000000,17000000.0,22000000,2030,2031,2033
+Lisbon,Option 3: Operational Resilience Protocol,SSP2-4.5,Baseline,12000000,17000000.0,22000000,2034,2037,2039
+Lisbon,Option 3: Operational Resilience Protocol,SSP2-4.5,+Geoid,12000000,17000000.0,22000000,2029,2031,2032
+Lisbon,Option 3: Operational Resilience Protocol,SSP5-8.5,Baseline,12000000,17000000.0,22000000,2033,2035,2036
+Lisbon,Option 3: Operational Resilience Protocol,SSP5-8.5,+Geoid,12000000,17000000.0,22000000,2029,2030,2031
+Setúbal,Option 1: Physical Flood-Proofing,SSP1-2.6,Baseline,20000000,30000000.0,40000000,2045,2049,2053
+Setúbal,Option 1: Physical Flood-Proofing,SSP1-2.6,+Geoid,20000000,30000000.0,40000000,2032,2035,2037
+Setúbal,Option 1: Physical Flood-Proofing,SSP2-4.5,Baseline,20000000,30000000.0,40000000,2040,2043,2045
+Setúbal,Option 1: Physical Flood-Proofing,SSP2-4.5,+Geoid,20000000,30000000.0,40000000,2031,2033,2034
+Setúbal,Option 1: Physical Flood-Proofing,SSP5-8.5,Baseline,20000000,30000000.0,40000000,2037,2039,2041
+Setúbal,Option 1: Physical Flood-Proofing,SSP5-8.5,+Geoid,20000000,30000000.0,40000000,2030,2032,2033
+Setúbal,Option 2: Landside Access Resilience,SSP1-2.6,Baseline,15000000,22500000.0,30000000,2042,2046,2049
+Setúbal,Option 2: Landside Access Resilience,SSP1-2.6,+Geoid,15000000,22500000.0,30000000,2031,2033,2035
+Setúbal,Option 2: Landside Access Resilience,SSP2-4.5,Baseline,15000000,22500000.0,30000000,2038,2041,2043
+Setúbal,Option 2: Landside Access Resilience,SSP2-4.5,+Geoid,15000000,22500000.0,30000000,2030,2032,2033
+Setúbal,Option 2: Landside Access Resilience,SSP5-8.5,Baseline,15000000,22500000.0,30000000,2035,2037,2039
+Setúbal,Option 2: Landside Access Resilience,SSP5-8.5,+Geoid,15000000,22500000.0,30000000,2030,2031,2032
+Setúbal,Option 3: Operational Resilience Protocol,SSP1-2.6,Baseline,8000000,11500000.0,15000000,2037,2041,2044
+Setúbal,Option 3: Operational Resilience Protocol,SSP1-2.6,+Geoid,8000000,11500000.0,15000000,2030,2032,2033
+Setúbal,Option 3: Operational Resilience Protocol,SSP2-4.5,Baseline,8000000,11500000.0,15000000,2035,2038,2040
+Setúbal,Option 3: Operational Resilience Protocol,SSP2-4.5,+Geoid,8000000,11500000.0,15000000,2030,2031,2032
+Setúbal,Option 3: Operational Resilience Protocol,SSP5-8.5,Baseline,8000000,11500000.0,15000000,2033,2036,2037
+Setúbal,Option 3: Operational Resilience Protocol,SSP5-8.5,+Geoid,8000000,11500000.0,15000000,2029,2030,2031
