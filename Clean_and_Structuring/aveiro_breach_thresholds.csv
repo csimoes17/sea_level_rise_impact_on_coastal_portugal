@@ -1,0 +1,7 @@
+scenario,variant,breach_year_conservative,breach_year_optimistic,perm_inundation_year
+SSP1-2.6,Baseline,,,
+SSP1-2.6,+Geoid,,,
+SSP2-4.5,Baseline,2100.0,,
+SSP2-4.5,+Geoid,2075.0,,2092.0
+SSP5-8.5,Baseline,2067.0,2084.0,2075.0
+SSP5-8.5,+Geoid,2055.0,2071.0,2063.0
