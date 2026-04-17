@@ -1,0 +1,5 @@
+station,period,n_years,slope_mm_yr,ci_low_mm_yr,ci_high_mm_yr,r_squared,p_value
+Leixões — full record,1956–2022,50,0.958,0.287,1.629,0.1465,0.00607884
+Leixões — 1993–2022,1995–2022,20,3.161,1.489,4.833,0.467,0.00089539
+Sines — full record,1977–2022,39,3.307,2.721,3.893,0.7794,0.0
+Sines — 1993–2022,1997–2022,26,5.058,3.856,6.259,0.7588,1e-08
