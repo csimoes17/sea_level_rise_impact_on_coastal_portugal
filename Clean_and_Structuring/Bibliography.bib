@@ -1,0 +1,316 @@
+% BibTeX Export — Sea Level Rise Impact Analysis · Coastal Portugal
+% MBA Data Science Capstone | APA 7th Edition
+% Generated: 2026-05-02 | Last updated: 2026-05-02 (session 19)
+% Status: ✅ confirmed | ⚠ needs verification | 🔍 located — check citation
+%
+% IMPORTANT NOTES:
+%   REF-02: Author order corrected to Seeger & Minderhoud (Seeger is first author)
+%   REF-03: Moftakhari et al. cited for compound flood concept; the exponential
+%           formula RP(SLR)=RP0*exp(-k*SLR) is the study's simplified operationalisation,
+%           not a formula directly from this paper (which uses copula-based bivariate stats)
+%   REF-08: Year corrected 2013 → 2017; J. Operational Oceanography 10(1)
+%   REF-09: Replaces earlier incorrect citation to Aven (2012) in Ch3 §3.5
+%   REF-10: "Belhaj & Khalifa (2024)" was unlocatable — replaced with confirmed
+%           Tran, Haralambides, Notteboom & Cullinane (2025), IJPE 279, 109464
+%   REF-11: Now fully confirmed — Qu et al. (2024), The Innovation 5(4) 100653
+%   REF-16: APSS Annual Report added — Relatório e Contas 2023 (signed PDF, real URL)
+%   REF-20: OSM updated to standard dataset citation (Planet dump, ODbL licence)
+%   REF-09 (Hsu2015): RETIRED — entry commented out; replaced by REF-10 (Tran2025)
+
+% ── 1. SEA LEVEL RISE PROJECTIONS ────────────────────────────────────────────
+
+@incollection{FoxKemper2021,
+  % STATUS: ✅ Confirmed
+  author    = {Fox-Kemper, Baylor and Hewitt, Helene T. and Xiao, Cunde
+               and A{\dh}algeirsd{\'o}ttir, Gu{\dh}r{\'u}n and Drijfhout, Sybren S.
+               and Edwards, Tamsin L. and Golledge, Nicholas R. and Hemer, Mark
+               and Kopp, Robert E. and Krinner, Gerhard and Mix, Alan and Notz, Dirk
+               and Nowicki, Sophie and Nurhati, Intan S. and Ruiz, Leo
+               and Sall{\'e}e, Jean-Baptiste and Slangen, Aim{\'e}e B. A. and Yu, Yunhe},
+  title     = {Ocean, Cryosphere and Sea Level Change},
+  booktitle = {Climate Change 2021: The Physical Science Basis. Contribution of Working
+               Group {I} to the Sixth Assessment Report of the {IPCC}},
+  editor    = {Masson-Delmotte, V. and others},
+  chapter   = {9},
+  publisher = {Cambridge University Press},
+  year      = {2021},
+  doi       = {10.1017/9781009157896.011},
+  note      = {IPCC AR6 WG1 Ch.9 — core SLR anchor values used throughout}
+}
+
+@article{Seeger2026,
+  % STATUS: ✅ Confirmed | AUTHOR ORDER CORRECTED: Seeger is first author
+  author    = {Seeger, Katharina and Minderhoud, Philip S. J.},
+  title     = {Sea level much higher than assumed in most coastal hazard assessments},
+  journal   = {Nature},
+  volume    = {652},
+  pages     = {667--674},
+  year      = {2026},
+  doi       = {10.1038/s41586-026-10196-1},
+  note      = {REF-02 — geoid offset +0.15 m EU Atlantic coast (conservative lower bound).
+               Cite as: Seeger \& Minderhoud (2026). Underpins the +Geoid sensitivity variant.}
+}
+
+% ── 2. FLOOD MODELLING METHODOLOGY ───────────────────────────────────────────
+
+@article{Moftakhari2017,
+  % STATUS: ✅ Paper confirmed | NOTE: See BibTeX header — formula attribution caveat
+  author    = {Moftakhari, Hamed R. and Salvadori, Gianfausto and AghaKouchak, Amir
+               and Sanders, Brett F. and Matthew, Richard A.},
+  title     = {Compounding effects of sea level rise and fluvial flooding},
+  journal   = {Proceedings of the National Academy of Sciences},
+  volume    = {114},
+  number    = {37},
+  pages     = {9785--9790},
+  year      = {2017},
+  doi       = {10.1073/pnas.1620325114},
+  note      = {REF-03 — compound flood framework. Paper uses copula-based bivariate
+               statistics; exponential RP model used in study is simplified operationalisation.}
+}
+
+@article{Poulter2008,
+  % STATUS: ✅ Confirmed — Taylor & Francis/Duke; IJGIS 22(2), DOI 10.1080/13658810701371858
+  author    = {Poulter, Benjamin and Halpin, Patrick N.},
+  title     = {Raster modelling of coastal flooding from sea-level rise},
+  journal   = {International Journal of Geographical Information Science},
+  volume    = {22},
+  number    = {2},
+  pages     = {167--182},
+  year      = {2008},
+  doi       = {10.1080/13658810701371858},
+  note      = {REF-04 — static bathtub inundation model. Confirmed.}
+}
+
+% ── 3. TEJO (TAGUS) ESTUARY ──────────────────────────────────────────────────
+
+@article{Guerreiro2015,
+  % STATUS: ✅ Confirmed (full author list verified)
+  author    = {Guerreiro, Martha and Fortunato, Andr{\'e} B. and Freire, Paula
+               and Rilo, Ana and Taborda, Rui and Freitas, Maria C.
+               and Andrade, Cristina and Silva, T. and Rodrigues, M.
+               and Bertin, Xavier and Azevedo, Alberto},
+  title     = {Evolution of the hydrodynamics of the {Tagus} estuary ({Portugal})
+               in the 21st century},
+  journal   = {Revista de Gest{\~a}o Costeira Integrada / Journal of Integrated
+               Coastal Zone Management},
+  volume    = {15},
+  number    = {1},
+  pages     = {65--80},
+  year      = {2015},
+  doi       = {10.5894/rgci515},
+  note      = {REF-05 — Tagus estuary hydrodynamics and SLR impacts.
+               Used in script docstrings (10b, 11c). ~50 citations.}
+}
+
+@article{Trigo2016,
+  % STATUS: ✅ Confirmed
+  author    = {Trigo, Ricardo M. and Ramos, Celia and Pereira, Sandra S.
+               and Ramos, Alexandre M. and Z{\^e}zere, Jos{\'e} L.
+               and Liberato, Margarida L. R.},
+  title     = {The deadliest storm of the 20th century striking {Portugal}:
+               Flood impacts and atmospheric circulation},
+  journal   = {Journal of Hydrology},
+  volume    = {541},
+  pages     = {597--610},
+  year      = {2016},
+  doi       = {10.1016/j.jhydrol.2015.10.036},
+  note      = {REF-06 — November 1967 Tagus floodplain flood climatology.}
+}
+
+% ── 4. RIA DE AVEIRO ─────────────────────────────────────────────────────────
+
+@article{Lopes2011,
+  % STATUS: ✅ Confirmed (journal: Continental Shelf Research, not J. Coastal Research)
+  author    = {Lopes, Carina L. and Silva, Paulo A. and Dias, Jo{\~a}o M.
+               and Rocha, Alfredo and Picado, Ana and Plecha, Sandra
+               and Fortunato, Andr{\'e} B.},
+  title     = {Local sea level change scenarios for the end of the 21st century
+               and potential physical impacts in the lower {Ria de Aveiro} ({Portugal})},
+  journal   = {Continental Shelf Research},
+  volume    = {31},
+  pages     = {1515--1526},
+  year      = {2011},
+  doi       = {10.1016/j.csr.2011.06.015},
+  note      = {REF-07 — Aveiro lagoon barrier breach threshold rationale.}
+}
+
+@article{Fortunato2017,
+  % STATUS: ✅ Confirmed — year corrected to 2017; J. Operational Oceanography 10(1)
+  author    = {Fortunato, Andr{\'e} B. and Oliveira, Anabela and Rogeiro, Jo{\~a}o
+               and da Costa, Rui T. and Gomes, Jo{\~a}o L. and Li, K. and Jesus, G.
+               and Freire, Paula and Rilo, Ana and Mendes, A.
+               and Rodrigues, M. and Azevedo, Alberto},
+  title     = {Operational forecast framework applied to extreme sea levels
+               at regional and local scales},
+  journal   = {Journal of Operational Oceanography},
+  volume    = {10},
+  number    = {1},
+  year      = {2017},
+  doi       = {10.1080/1755876X.2016.1255471},
+  note      = {REF-08 — Aveiro lagoon inundation. Year corrected: 2013 → 2017.}
+}
+
+% ── 5. PORTS AND SUPPLY CHAIN DISRUPTION ─────────────────────────────────────
+
+% @article{Hsu2015,
+%   STATUS: ❌ RETIRED — could not be confirmed as a standard, widely-cited reference
+%   in port disruption cost modelling. Replaced throughout by REF-10 (Tran et al., 2025).
+%   Do NOT use this key in any cite commands.
+% }
+
+@article{Tran2025,
+  % STATUS: ✅ Confirmed — ScienceDirect confirms title, journal, vol, article no., DOI
+  % Replaces "Belhaj & Khalifa (2024)" — no such paper could be located
+  author    = {Tran, Nguyen Khoi and Haralambides, Hercules and Notteboom, Theo
+               and Cullinane, Kevin},
+  title     = {The costs of maritime supply chain disruptions: The case of the
+               {Suez Canal} blockage by the {Ever Given} megaship},
+  journal   = {International Journal of Production Economics},
+  volume    = {279},
+  pages     = {109464},
+  year      = {2025},
+  doi       = {10.1016/j.ijpe.2024.109464},
+  note      = {REF-10 — CDDR rate calibration (3-7\%/week). Cite as: Tran et al. (2025).}
+}
+
+@article{Qu2024,
+  % STATUS: ✅ Confirmed — PMC confirms authors, title, journal, issue, article no., DOI
+  author    = {Qu, Shen and She, Yunlong and Zhou, Qian and Verschuur, Jasper
+               and Zhao, Lu-Tao and Liu, Hao and Xu, Ming and Wei, Yi-Ming},
+  title     = {Modeling the dynamic impacts of maritime network blockage
+               on global supply chains},
+  journal   = {The Innovation},
+  volume    = {5},
+  number    = {4},
+  pages     = {100653},
+  year      = {2024},
+  doi       = {10.1016/j.xinn.2024.100653},
+  note      = {REF-11 — JIT vulnerability framework for port disruption analysis.}
+}
+
+@misc{IMFPortWatch2023,
+  % STATUS: 🔍 Located
+  author    = {{International Monetary Fund}},
+  title     = {{PortWatch}: Data and Methodology},
+  year      = {2023},
+  howpublished = {IMF. https://portwatch.imf.org/pages/data-and-methodology},
+  note      = {REF-12 — port monitoring methodology, CDDR context.}
+}
+
+@book{Arvis2018,
+  % STATUS: 🔍 Located
+  author    = {Arvis, Jean-Fran{\c{c}}ois and Ojala, Lauri and Wiederer, Christina
+               and Shepherd, Ben and Raj, Anasuya and Dairabayeva, Karlygash
+               and Kiiski, Tuomas},
+  title     = {Connecting to Compete 2018: Trade Logistics in the Global Economy},
+  publisher = {World Bank},
+  year      = {2018},
+  doi       = {10.1596/29971},
+  note      = {REF-13 — port resilience and supply chain disruption context.}
+}
+
+% ── 6. PORT DATA SOURCES ──────────────────────────────────────────────────────
+
+@techreport{APSS2024,
+  % STATUS: ✅ Confirmed — official signed annual report (PDF signed 03.07.2024)
+  % Cross-check: 6.3 Mt for 2023 confirmed by 2024 figure of 6.5 Mt (+3.7% YoY)
+  author      = {{Administra\c{c}\~{a}o dos Portos de Set\'{u}bal e Sesimbra (APSS)}},
+  title       = {Relat\'{o}rio e Contas 2023},
+  institution = {APSS},
+  year        = {2024},
+  url         = {https://www.portodesetubal.pt/docs/upload_docs/RC_RS\%202023_03.07.2024_assinado.pdf},
+  note        = {REF-16 — Set\'{u}bal parameter calibration (~6.3 Mt 2023,
+                 jit\_share\_pct = 45\%). Primary institutional data source.}
+}
+
+@misc{PortoLisboa2024,
+  % STATUS: 🔍 Located — consider replacing with official annual report
+  author    = {{Porto de Lisboa}},
+  title     = {Port of {Lisbon} grows in cargo and cruises},
+  year      = {2024},
+  howpublished = {Press release. https://www.portodelisboa.pt/en/-/port-of-lisbon-grows-in-cargo-and-cruises},
+  note      = {REF-14 — Lisbon parameter calibration (~11 Mt 2023, €25.0bn).}
+}
+
+@misc{PortsEurope2024,
+  % STATUS: 🔍 Located
+  author    = {{Ports Europe}},
+  title     = {Portugal mainland seaports cargo report --- {September} 2024},
+  year      = {2024},
+  month     = oct,
+  howpublished = {https://www.portseurope.com/portugal-mainland-seaports-cargo-report-september-2024/},
+  note      = {REF-15/17 — Leixões and national throughput data.}
+}
+
+@misc{WITS2024,
+  % STATUS: 🔍 Located
+  author    = {{World Integrated Trade Solution (WITS) / World Bank}},
+  title     = {Portugal trade summary 2023},
+  year      = {2024},
+  howpublished = {https://wits.worldbank.org/CountryProfile/en/Country/PRT/Year/2023/Summarytext},
+  note      = {REF-18 — Portugal exports USD 83.9bn, imports USD 113.4bn (2023).}
+}
+
+% ── 7. DEM AND GEOSPATIAL DATA ───────────────────────────────────────────────
+
+@misc{CopernicusDEM2021,
+  % STATUS: ✅ Confirmed
+  author    = {{European Space Agency / Copernicus Land Monitoring Service}},
+  title     = {Copernicus Digital Elevation Model ({DEM}) --- Global 30m ({GLO-30})},
+  year      = {2021},
+  doi       = {10.5270/ESA-c5d3d65},
+  note      = {REF-19 — used in 04\_merge\_dem.py, 05\_flood\_exposure.py,
+               09b\_geoid\_sensitivity.py, 09c\_geoid\_sensitivity\_infra.py.}
+}
+
+@misc{OpenStreetMap2024,
+  % STATUS: ✅ Confirmed — standard OSM dataset citation format
+  author    = {{OpenStreetMap contributors}},
+  title     = {Planet dump [dataset]},
+  year      = {2024},
+  howpublished = {OpenStreetMap Foundation. https://planet.osm.org},
+  note      = {REF-20 — infrastructure inventory. Data licensed under the
+               Open Database Licence (ODbL). Used in 06b\_osm\_infrastructure.py.}
+}
+
+% ── 8. TO BE ADDED ───────────────────────────────────────────────────────────
+
+@incollection{AraBegum2022,
+  % STATUS: ✅ Confirmed — REF-21; IPCC AR6 WG2 Ch.1
+  author    = {{Ara Begum}, Ramsha and Lempert, Robert and Ali, Edmond
+               and Benjaminsen, Tor A. and Bernauer, Thomas and Cramer, Wolfgang
+               and Cui, Xuefeng and Mach, Katharine and Nagy, Gustavo
+               and Stenseth, Nils Christian and Sukumar, Raman and Wester, Philippus},
+  title     = {Point of departure and key concepts},
+  booktitle = {Climate Change 2022: Impacts, Adaptation and Vulnerability.
+               Contribution of Working Group {II} to the Sixth Assessment Report
+               of the {IPCC}},
+  editor    = {P{\"o}rtner, H.-O. and others},
+  chapter   = {1},
+  publisher = {Cambridge University Press},
+  year      = {2022},
+  doi       = {10.1017/9781009325844.003},
+  note      = {REF-21 — Primary source for IPCC Risk = f(Hazard, Exposure, Vulnerability)
+               framework used as the study's methodological foundation (Ch3 §3.1).}
+}
+
+@book{Stern2007,
+  % STATUS: ✅ Confirmed — REF-23
+  author    = {Stern, Nicholas},
+  title     = {The Economics of Climate Change: The {Stern} Review},
+  publisher = {Cambridge University Press},
+  year      = {2007},
+  note      = {REF-23 — discount rate debate. Supports ANALYSIS\_LOG Decision 013
+               (no NPV discounting for long-horizon climate costs).}
+}
+
+@misc{INE2024,
+  % STATUS: ✅ Confirmed — REF-22
+  author    = {{Instituto Nacional de Estat{\'i}stica (INE)}},
+  title     = {Contas regionais: Produto interno bruto por {NUTS III}, 2022 [dataset]},
+  year      = {2024},
+  howpublished = {INE. https://www.ine.pt/xportal/xmain?xpid=INE\&xpgid=ine\_contas\_nacionais\&contexto=cr\&selTab=tab3},
+  note      = {REF-22 — Regional GDP (PIB) by NUTS3, 2022 final values. Used in
+               06a\_economic\_gdp.py for flood-zone economic exposure baseline.
+               INE released final 2021--2022 regional accounts, September 2024.}
+}
