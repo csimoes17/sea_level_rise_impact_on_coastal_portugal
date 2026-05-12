@@ -1,0 +1,35 @@
+LINHA DO ALGARVE — PORTIMÃO / ARADE ESTUARY SECTION
+Elevation Study — Arade Estuary Crossing
+Generated : 2026-05-12
+OSM data  : Relation 349295 (Linha do Algarve)
+URL       : https://www.openstreetmap.org/relation/349295
+Elev src  : EU-DEM 25m, EGM2008 datum (OpenTopoData API)
+Section   : lat [37.12, 37.18]  lon [-8.56, -8.46]
+Interval  : 50 m  |  Threshold  : 5.0 m MSL
+
+RESULTS
+  Valid sample points : 301
+  Track length sampled: 15.1 km
+  Minimum elevation   : 0.585 m MSL  ← reported floor
+  Mean elevation      : 26.705 m MSL
+  Maximum elevation   : 57.501 m MSL
+  Points < 5.0 m MSL  : 30  (10.0%)
+  Track at risk       : 1.5 km  (below 5.0 m MSL)
+
+FLOOD ZONES (points below threshold)
+  Arade Estuary Bridge Crossing
+    Context : Rail bridge over tidal Arade estuary; mesotidal range 2-3 m; storm surge and compound flood exposure
+    length=1.50 km  n=30  min=0.585 m  mean=2.834 m
+
+EU-DEM WATER ARTIFACTS EXCLUDED: 9 points
+  DEM returned negative elevation (-0.700 m to -0.660 m) at points over the
+  Arade river channel — the DEM samples the water surface, not the bridge deck.
+  These points were excluded from all statistics and output CSVs.
+  NOTE: EU-DEM cannot measure bridge deck elevation; the bridge span itself
+  is assessed by design elevation (civil engineering drawings), not DEM.
+
+LIMITATION
+  EU-DEM 25m: each value is mean terrain within a 25×25 m cell.
+  May include embankment flanks or drainage features.
+  Values treated as conservative lower bounds on track surface.
+  Bridge spans over open water are outside EU-DEM scope.

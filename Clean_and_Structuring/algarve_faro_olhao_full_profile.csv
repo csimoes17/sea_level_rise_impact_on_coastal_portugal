@@ -1,0 +1,265 @@
+idx,lat,lon,elev_m,below_threshold,flood_zone,zone_notes
+0,37.024119,-7.944668,3.473,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+1,37.023757,-7.944334,3.008,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+2,37.023394,-7.944001,3.397,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+3,37.023033,-7.943665,4.322,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+4,37.022669,-7.943335,4.635,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+5,37.022303,-7.943008,5.09,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+6,37.021915,-7.942724,6.519,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+7,37.021521,-7.942452,7.3,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+8,37.021128,-7.942177,6.784,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+9,37.020751,-7.941872,6.147,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+10,37.020386,-7.941543,5.765,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+11,37.020023,-7.941211,5.341,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+12,37.01966,-7.940879,4.138,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+13,37.019297,-7.940546,3.62,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+14,37.018934,-7.940213,3.348,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+15,37.018572,-7.939879,3.587,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+16,37.018211,-7.939544,4.054,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+17,37.017848,-7.939212,4.674,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+18,37.017477,-7.938894,4.376,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+19,37.017085,-7.938617,3.891,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+20,37.01668,-7.938372,3.5,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+21,37.016276,-7.938125,3.009,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+22,37.015872,-7.937879,2.972,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+23,37.015467,-7.937635,2.341,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+24,37.015062,-7.93739,2.551,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+25,37.014656,-7.937146,2.936,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+26,37.014253,-7.936898,2.902,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+27,37.01385,-7.936649,2.672,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+28,37.013444,-7.936407,2.818,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+29,37.013038,-7.936163,2.966,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+30,37.012636,-7.935911,4.019,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+31,37.012251,-7.935623,4.218,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+32,37.0119,-7.935271,4.719,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+33,37.011599,-7.934855,5.36,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+34,37.011353,-7.934384,5.636,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+35,37.011172,-7.93387,5.293,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+36,37.011065,-7.932206,3.11,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+37,37.011175,-7.93166,2.498,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+38,37.01136,-7.931148,3.014,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+39,37.011611,-7.930682,4.117,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+40,37.011898,-7.930248,4.663,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+41,37.012189,-7.929819,5.418,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+42,37.01245,-7.929361,6.122,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+43,37.012658,-7.928863,6.416,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+44,37.0128,-7.928329,6.704,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+45,37.012899,-7.92778,7.008,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+46,37.01299,-7.927229,7.283,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+47,37.013078,-7.926676,7.262,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+48,37.01317,-7.926125,7.355,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+49,37.013259,-7.925573,7.824,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+50,37.013347,-7.925021,8.947,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+51,37.013435,-7.924469,10.241,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+52,37.013524,-7.923917,10.882,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+53,37.013612,-7.923365,11.156,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+54,37.013701,-7.922812,11.204,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+55,37.013792,-7.922261,12.525,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+56,37.013884,-7.92171,13.567,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+57,37.013976,-7.921159,13.434,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+58,37.014066,-7.920607,13.702,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+59,37.014156,-7.920055,13.313,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+60,37.014245,-7.919503,12.905,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+61,37.014334,-7.918951,12.588,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+62,37.014424,-7.918399,12.773,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+63,37.014513,-7.917847,13.752,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+64,37.014607,-7.917297,14.568,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+65,37.014727,-7.916754,14.767,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+66,37.014906,-7.916238,13.94,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+67,37.015128,-7.915749,11.788,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+68,37.015402,-7.915303,9.166,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+69,37.015714,-7.914898,7.774,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+70,37.016068,-7.914551,8.256,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+71,37.016434,-7.914224,8.738,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+72,37.016804,-7.913904,8.42,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+73,37.017174,-7.913583,8.337,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+74,37.017543,-7.913263,7.773,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+75,37.017913,-7.912943,7.227,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+76,37.018284,-7.912624,6.879,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+77,37.018656,-7.912307,6.731,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+78,37.019027,-7.911989,6.107,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+79,37.019398,-7.911672,5.655,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+80,37.019751,-7.911323,5.711,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+81,37.02008,-7.910939,6.081,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+82,37.020361,-7.910501,6.31,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+83,37.020587,-7.910014,5.783,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+84,37.020769,-7.909499,4.942,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+85,37.020943,-7.90898,4.471,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+86,37.021118,-7.908461,4.328,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+87,37.021292,-7.907942,4.487,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+88,37.021467,-7.907423,4.689,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+89,37.021641,-7.906904,4.698,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+90,37.021815,-7.906385,4.29,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+91,37.02199,-7.905865,3.872,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+92,37.022164,-7.905346,4.096,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+93,37.022337,-7.904826,4.591,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+94,37.0225,-7.904301,4.886,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+95,37.022624,-7.903761,5.143,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+96,37.022733,-7.903214,5.201,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+97,37.022836,-7.902666,5.179,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+98,37.022938,-7.902117,4.857,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+99,37.023041,-7.901569,4.262,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+100,37.023144,-7.901021,3.928,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+101,37.023247,-7.900473,3.594,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+102,37.02335,-7.899924,3.308,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+103,37.02345,-7.899375,3.586,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+104,37.02355,-7.898826,4.165,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+105,37.02365,-7.898277,4.951,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+106,37.02375,-7.897728,4.91,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+107,37.023851,-7.897179,4.721,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+108,37.023949,-7.89663,4.671,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+109,37.024048,-7.89608,4.71,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+110,37.024147,-7.895531,4.639,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+111,37.024247,-7.894982,4.51,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+112,37.024349,-7.894433,4.706,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+113,37.024452,-7.893885,4.795,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+114,37.024555,-7.893337,5.0,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+115,37.024658,-7.892788,4.997,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+116,37.024761,-7.89224,4.628,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+117,37.024864,-7.891692,4.031,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+118,37.024967,-7.891144,4.274,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+119,37.02507,-7.890595,4.933,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+120,37.025172,-7.890047,5.136,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+121,37.025275,-7.889499,5.476,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+122,37.025378,-7.88895,5.751,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+123,37.025481,-7.888402,5.17,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+124,37.025584,-7.887854,5.247,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+125,37.025686,-7.887305,5.566,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+126,37.025788,-7.886757,5.411,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+127,37.02589,-7.886208,4.944,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+128,37.025991,-7.885659,4.876,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+129,37.026093,-7.885111,5.409,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+130,37.026195,-7.884562,6.262,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+131,37.026295,-7.884013,6.716,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+132,37.026398,-7.883465,6.572,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+133,37.0265,-7.882916,6.173,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+134,37.026602,-7.882368,5.93,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+135,37.026705,-7.881819,5.73,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+136,37.026807,-7.881271,5.84,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+137,37.026909,-7.880723,6.032,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+138,37.027012,-7.880174,5.349,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+139,37.027114,-7.879626,5.291,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+140,37.027217,-7.879077,6.3,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+141,37.027304,-7.878525,6.126,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+142,37.027362,-7.877967,5.556,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+143,37.027385,-7.877405,5.009,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+144,37.027355,-7.876843,4.885,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+145,37.027324,-7.876281,5.213,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+146,37.027293,-7.875719,5.484,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+147,37.027261,-7.875157,5.314,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+148,37.027229,-7.874595,4.771,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+149,37.027197,-7.874034,4.44,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+150,37.027162,-7.873472,4.596,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+151,37.027126,-7.872911,4.66,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+152,37.02709,-7.872349,4.487,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+153,37.027054,-7.871788,4.624,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+154,37.027018,-7.871226,4.23,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+155,37.026982,-7.870665,3.511,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+156,37.026947,-7.870103,3.948,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+157,37.026911,-7.869542,4.403,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+158,37.026875,-7.868981,4.669,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+159,37.026839,-7.868419,4.583,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+160,37.026803,-7.867858,4.556,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+161,37.026767,-7.867296,4.534,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+162,37.026731,-7.866735,4.034,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+163,37.026695,-7.866173,4.43,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+164,37.026659,-7.865612,5.218,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+165,37.026624,-7.86505,4.812,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+166,37.026588,-7.864489,3.583,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+167,37.026552,-7.863928,3.583,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+168,37.026519,-7.863366,4.628,True,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+169,37.026486,-7.862804,5.193,False,Faro–Ria Formosa Crossing,"Rail embankment across Ria Formosa backbarrier lagoon; low-lying marsh, tidal influence, storm surge pathway"
+170,37.026562,-7.858329,6.122,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+171,37.026682,-7.857786,5.416,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+172,37.026799,-7.857242,5.236,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+173,37.026912,-7.856697,5.085,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+174,37.027023,-7.856151,4.924,True,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+175,37.027123,-7.855602,4.643,True,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+176,37.027191,-7.855046,4.259,True,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+177,37.027212,-7.854483,3.931,True,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+178,37.027184,-7.853922,3.838,True,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+179,37.027115,-7.853365,3.986,True,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+180,37.027029,-7.852812,4.097,True,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+181,37.02694,-7.85226,4.75,True,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+182,37.026855,-7.851707,6.287,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+183,37.026769,-7.851154,7.368,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+184,37.026698,-7.850598,8.033,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+185,37.026678,-7.850036,8.305,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+186,37.026709,-7.849475,8.601,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+187,37.0268,-7.848924,9.049,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+188,37.026947,-7.848392,9.09,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+189,37.027137,-7.847881,10.137,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+190,37.027344,-7.847381,11.761,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+191,37.027552,-7.846882,12.184,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+192,37.02776,-7.846382,11.843,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+193,37.027968,-7.845883,10.603,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+194,37.028175,-7.845383,9.243,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+195,37.028386,-7.844886,9.148,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+196,37.028621,-7.844406,10.346,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+197,37.02888,-7.843945,11.483,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+198,37.029142,-7.843488,12.889,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+199,37.029392,-7.84302,14.186,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+200,37.029595,-7.842517,13.918,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+201,37.029753,-7.841991,13.511,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+202,37.029906,-7.841461,12.97,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+203,37.030055,-7.840929,11.711,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+204,37.030205,-7.840398,10.592,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+205,37.030355,-7.839867,10.404,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+206,37.030506,-7.839337,9.911,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+207,37.030656,-7.838806,9.236,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+208,37.030806,-7.838275,9.171,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+209,37.030958,-7.837744,9.395,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+210,37.031108,-7.837214,10.196,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+211,37.031259,-7.836683,10.297,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+212,37.03141,-7.836152,9.893,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+213,37.031561,-7.835622,9.862,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+214,37.031711,-7.835091,10.963,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+215,37.03186,-7.83456,11.032,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+216,37.03201,-7.834029,10.359,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+217,37.03216,-7.833498,9.604,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+218,37.03231,-7.832967,9.217,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+219,37.03246,-7.832435,9.29,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+220,37.032609,-7.831904,9.914,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+221,37.032758,-7.831373,10.359,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+222,37.032908,-7.830841,9.746,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+223,37.033057,-7.83031,9.936,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+224,37.033207,-7.829779,10.484,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+225,37.033356,-7.829248,10.687,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+226,37.033504,-7.828716,11.214,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+227,37.033651,-7.828184,11.346,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+228,37.033799,-7.827651,10.051,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+229,37.033946,-7.827119,8.802,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+230,37.034093,-7.826587,8.174,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+231,37.034241,-7.826055,8.579,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+232,37.034388,-7.825523,9.375,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+233,37.034535,-7.82499,10.171,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+234,37.034657,-7.824449,11.002,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+235,37.034706,-7.823889,11.563,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+236,37.034735,-7.823327,11.737,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+237,37.034764,-7.822765,11.376,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+238,37.034795,-7.822203,11.17,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+239,37.034827,-7.821641,11.462,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+240,37.034859,-7.821079,11.508,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+241,37.034891,-7.820517,11.678,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+242,37.034922,-7.819956,11.915,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+243,37.034954,-7.819394,12.307,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+244,37.034986,-7.818832,12.836,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+245,37.035018,-7.81827,13.275,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+246,37.035049,-7.817708,13.058,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+247,37.035081,-7.817146,12.52,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+248,37.035113,-7.816584,11.542,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+249,37.035145,-7.816022,10.333,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+250,37.035174,-7.81546,9.589,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+251,37.035202,-7.814898,9.733,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+252,37.03523,-7.814336,10.422,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+253,37.03526,-7.813774,10.678,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+254,37.035304,-7.813213,10.24,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+255,37.0354,-7.812664,9.928,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+256,37.035557,-7.812136,9.986,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+257,37.035777,-7.811646,9.58,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+258,37.036045,-7.811194,8.862,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+259,37.036325,-7.810753,8.209,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+260,37.036609,-7.810316,6.432,False,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+261,37.036898,-7.809884,4.787,True,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+262,37.037184,-7.80945,4.337,True,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
+263,37.037469,-7.809014,4.573,True,Olhão Station Approaches,Approaches to Olhão station; proximity to Ria Formosa east
