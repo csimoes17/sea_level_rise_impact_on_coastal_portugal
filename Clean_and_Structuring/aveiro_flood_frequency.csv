@@ -1,0 +1,25 @@
+section,section_type,zone,scenario,variant,year,slr_m,return_period_yr,closure_days_yr,barrier_breached,at_cap
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP1-2.6,Baseline,2030,0.07,1.847,3.1,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP1-2.6,Baseline,2050,0.2,0.75,9.3,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP1-2.6,Baseline,2075,0.3,0.375,21.3,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP1-2.6,Baseline,2100,0.4,0.188,48.0,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP1-2.6,+Geoid,2030,0.22,0.653,11.0,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP1-2.6,+Geoid,2050,0.35,0.265,32.1,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP1-2.6,+Geoid,2075,0.45,0.133,71.7,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP1-2.6,+Geoid,2100,0.55,0.066,158.4,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP2-4.5,Baseline,2030,0.1,1.5,4.0,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP2-4.5,Baseline,2050,0.3,0.375,21.3,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP2-4.5,Baseline,2075,0.45,0.133,71.7,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP2-4.5,Baseline,2100,0.6,0.047,365.0,True,True
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP2-4.5,+Geoid,2030,0.25,0.53,14.1,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP2-4.5,+Geoid,2050,0.45,0.133,71.7,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP2-4.5,+Geoid,2075,0.6,0.047,365.0,True,True
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP2-4.5,+Geoid,2100,0.75,0.017,365.0,True,True
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP5-8.5,Baseline,2030,0.13,1.218,5.2,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP5-8.5,Baseline,2050,0.4,0.188,48.0,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP5-8.5,Baseline,2075,0.7,0.023,365.0,True,True
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP5-8.5,Baseline,2100,1.0,0.003,365.0,True,True
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP5-8.5,+Geoid,2030,0.28,0.431,18.1,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP5-8.5,+Geoid,2050,0.55,0.066,158.4,False,False
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP5-8.5,+Geoid,2075,0.85,0.008,365.0,True,True
+Ria de Aveiro — Cacia–Estarreja (km 265–275),railway,Cacia-Estarreja,SSP5-8.5,+Geoid,2100,1.15,0.001,365.0,True,True

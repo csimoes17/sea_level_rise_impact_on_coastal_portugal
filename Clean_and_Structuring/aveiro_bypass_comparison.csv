@@ -1,0 +1,19 @@
+option,scenario,variant,cost_low_eur,cost_mid_eur,cost_high_eur,be_year_low_capex_mid_ddr,be_year_mid_capex_mid_ddr,be_year_high_capex_mid_ddr,be_year_mid_capex_low_ddr,be_year_mid_capex_high_ddr
+Option 1: Extreme Viaduct on Current Alignment (10 km),SSP1-2.6,Baseline,150000000,200000000.0,250000000,2050,2054,2058,2067,2046
+Option 1: Extreme Viaduct on Current Alignment (10 km),SSP1-2.6,+Geoid,150000000,200000000.0,250000000,2037,2039,2041,2047,2035
+Option 1: Extreme Viaduct on Current Alignment (10 km),SSP2-4.5,Baseline,150000000,200000000.0,250000000,2044,2047,2049,2054,2041
+Option 1: Extreme Viaduct on Current Alignment (10 km),SSP2-4.5,+Geoid,150000000,200000000.0,250000000,2035,2036,2038,2042,2033
+Option 1: Extreme Viaduct on Current Alignment (10 km),SSP5-8.5,Baseline,150000000,200000000.0,250000000,2040,2043,2044,2048,2038
+Option 1: Extreme Viaduct on Current Alignment (10 km),SSP5-8.5,+Geoid,150000000,200000000.0,250000000,2033,2035,2036,2039,2032
+Option 2: Coastal Barrier Reinforcement (Barra–Costa Nova),SSP1-2.6,Baseline,80000000,110000000.0,140000000,2042,2046,2049,2055,2039
+Option 2: Coastal Barrier Reinforcement (Barra–Costa Nova),SSP1-2.6,+Geoid,80000000,110000000.0,140000000,2032,2034,2036,2040,2031
+Option 2: Coastal Barrier Reinforcement (Barra–Costa Nova),SSP2-4.5,Baseline,80000000,110000000.0,140000000,2038,2041,2043,2048,2037
+Option 2: Coastal Barrier Reinforcement (Barra–Costa Nova),SSP2-4.5,+Geoid,80000000,110000000.0,140000000,2031,2033,2034,2037,2030
+Option 2: Coastal Barrier Reinforcement (Barra–Costa Nova),SSP5-8.5,Baseline,80000000,110000000.0,140000000,2036,2038,2040,2043,2035
+Option 2: Coastal Barrier Reinforcement (Barra–Costa Nova),SSP5-8.5,+Geoid,80000000,110000000.0,140000000,2031,2032,2033,2035,2030
+Option 3: Inland Reroute (Aveiro Eastern Bypass),SSP1-2.6,Baseline,280000000,380000000.0,480000000,2060,2065,2070,2081,2055
+Option 3: Inland Reroute (Aveiro Eastern Bypass),SSP1-2.6,+Geoid,280000000,380000000.0,480000000,2042,2046,2049,2056,2040
+Option 3: Inland Reroute (Aveiro Eastern Bypass),SSP2-4.5,Baseline,280000000,380000000.0,480000000,2050,2054,2057,2063,2048
+Option 3: Inland Reroute (Aveiro Eastern Bypass),SSP2-4.5,+Geoid,280000000,380000000.0,480000000,2039,2042,2044,2048,2037
+Option 3: Inland Reroute (Aveiro Eastern Bypass),SSP5-8.5,Baseline,280000000,380000000.0,480000000,2045,2048,2050,2054,2043
+Option 3: Inland Reroute (Aveiro Eastern Bypass),SSP5-8.5,+Geoid,280000000,380000000.0,480000000,2037,2039,2040,2044,2035
