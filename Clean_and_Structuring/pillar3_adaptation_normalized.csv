@@ -1,0 +1,199 @@
+section,section_type,option_id,option_label,scenario,variant,capex_low_eur,capex_mid_eur,capex_high_eur,breakeven_year_low,breakeven_year_mid,breakeven_year_high
+A1 Azambuja (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP1-2.6,+Geoid,180000000,240000000,300000000,2093,2101,2101
+A1 Azambuja (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP1-2.6,Baseline,180000000,240000000,300000000,2101,2101,2101
+A1 Azambuja (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP2-4.5,+Geoid,180000000,240000000,300000000,2071,2076,2080
+A1 Azambuja (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP2-4.5,Baseline,180000000,240000000,300000000,2093,2099,2101
+A1 Azambuja (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP5-8.5,+Geoid,180000000,240000000,300000000,2058,2061,2063
+A1 Azambuja (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP5-8.5,Baseline,180000000,240000000,300000000,2070,2073,2076
+A1 Azambuja (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP1-2.6,+Geoid,180000000,240000000,300000000,2093,2101,2101
+A1 Azambuja (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP1-2.6,Baseline,180000000,240000000,300000000,2101,2101,2101
+A1 Azambuja (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP2-4.5,+Geoid,180000000,240000000,300000000,2071,2076,2080
+A1 Azambuja (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP2-4.5,Baseline,180000000,240000000,300000000,2093,2099,2101
+A1 Azambuja (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP5-8.5,+Geoid,180000000,240000000,300000000,2058,2061,2063
+A1 Azambuja (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP5-8.5,Baseline,180000000,240000000,300000000,2070,2073,2076
+A1 Azambuja (road),Road,2,Opt 2: Barriers + drainage,SSP1-2.6,+Geoid,43900000,58500000,73100000,2062,2068,2073
+A1 Azambuja (road),Road,2,Opt 2: Barriers + drainage,SSP1-2.6,Baseline,43900000,58500000,73100000,2091,2098,2101
+A1 Azambuja (road),Road,2,Opt 2: Barriers + drainage,SSP2-4.5,+Geoid,43900000,58500000,73100000,2052,2056,2059
+A1 Azambuja (road),Road,2,Opt 2: Barriers + drainage,SSP2-4.5,Baseline,43900000,58500000,73100000,2070,2075,2079
+A1 Azambuja (road),Road,2,Opt 2: Barriers + drainage,SSP5-8.5,+Geoid,43900000,58500000,73100000,2046,2049,2051
+A1 Azambuja (road),Road,2,Opt 2: Barriers + drainage,SSP5-8.5,Baseline,43900000,58500000,73100000,2057,2060,2062
+A1 Azambuja (road),Road,3,Opt 3: Traffic mgmt,SSP1-2.6,+Geoid,4200000,6000000,7800000,2032,2035,2037
+A1 Azambuja (road),Road,3,Opt 3: Traffic mgmt,SSP1-2.6,Baseline,4200000,6000000,7800000,2044,2049,2052
+A1 Azambuja (road),Road,3,Opt 3: Traffic mgmt,SSP2-4.5,+Geoid,4200000,6000000,7800000,2031,2033,2035
+A1 Azambuja (road),Road,3,Opt 3: Traffic mgmt,SSP2-4.5,Baseline,4200000,6000000,7800000,2040,2043,2046
+A1 Azambuja (road),Road,3,Opt 3: Traffic mgmt,SSP5-8.5,+Geoid,4200000,6000000,7800000,2030,2032,2033
+A1 Azambuja (road),Road,3,Opt 3: Traffic mgmt,SSP5-8.5,Baseline,4200000,6000000,7800000,2037,2040,2041
+A14 Mondego (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP1-2.6,+Geoid,165000000,220000000,275000000,2082,2089,2095
+A14 Mondego (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP1-2.6,Baseline,165000000,220000000,275000000,2101,2101,2101
+A14 Mondego (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP2-4.5,+Geoid,165000000,220000000,275000000,2064,2069,2072
+A14 Mondego (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP2-4.5,Baseline,165000000,220000000,275000000,2085,2091,2095
+A14 Mondego (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP5-8.5,+Geoid,165000000,220000000,275000000,2054,2057,2059
+A14 Mondego (road),Road,1a,Opt 1a: Elevated road (SSP2-4.5),SSP5-8.5,Baseline,165000000,220000000,275000000,2066,2069,2071
+A14 Mondego (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP1-2.6,+Geoid,275000000,357500000,440000000,2095,2101,2101
+A14 Mondego (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP1-2.6,Baseline,275000000,357500000,440000000,2101,2101,2101
+A14 Mondego (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP2-4.5,+Geoid,275000000,357500000,440000000,2072,2077,2081
+A14 Mondego (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP2-4.5,Baseline,275000000,357500000,440000000,2095,2100,2101
+A14 Mondego (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP5-8.5,+Geoid,275000000,357500000,440000000,2059,2062,2064
+A14 Mondego (road),Road,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP5-8.5,Baseline,275000000,357500000,440000000,2071,2074,2076
+A14 Mondego (road),Road,2,Opt 2: Barriers + drainage,SSP1-2.6,+Geoid,40200000,53600000,67000000,2055,2060,2064
+A14 Mondego (road),Road,2,Opt 2: Barriers + drainage,SSP1-2.6,Baseline,40200000,53600000,67000000,2080,2087,2093
+A14 Mondego (road),Road,2,Opt 2: Barriers + drainage,SSP2-4.5,+Geoid,40200000,53600000,67000000,2047,2050,2053
+A14 Mondego (road),Road,2,Opt 2: Barriers + drainage,SSP2-4.5,Baseline,40200000,53600000,67000000,2063,2067,2071
+A14 Mondego (road),Road,2,Opt 2: Barriers + drainage,SSP5-8.5,+Geoid,40200000,53600000,67000000,2043,2045,2047
+A14 Mondego (road),Road,2,Opt 2: Barriers + drainage,SSP5-8.5,Baseline,40200000,53600000,67000000,2053,2056,2058
+A14 Mondego (road),Road,3,Opt 3: Traffic mgmt,SSP1-2.6,+Geoid,2700000,3850000,5000000,2028,2030,2031
+A14 Mondego (road),Road,3,Opt 3: Traffic mgmt,SSP1-2.6,Baseline,2700000,3850000,5000000,2036,2039,2042
+A14 Mondego (road),Road,3,Opt 3: Traffic mgmt,SSP2-4.5,+Geoid,2700000,3850000,5000000,2028,2029,2030
+A14 Mondego (road),Road,3,Opt 3: Traffic mgmt,SSP2-4.5,Baseline,2700000,3850000,5000000,2034,2036,2038
+A14 Mondego (road),Road,3,Opt 3: Traffic mgmt,SSP5-8.5,+Geoid,2700000,3850000,5000000,2028,2029,2030
+A14 Mondego (road),Road,3,Opt 3: Traffic mgmt,SSP5-8.5,Baseline,2700000,3850000,5000000,2032,2034,2036
+Aveiro Ria (railway),Railway,1,Option 1: Extreme Viaduct on Current Alignment (10 km),SSP1-2.6,+Geoid,150000000,200000000,250000000,2037,2039,2041
+Aveiro Ria (railway),Railway,1,Option 1: Extreme Viaduct on Current Alignment (10 km),SSP1-2.6,Baseline,150000000,200000000,250000000,2050,2054,2058
+Aveiro Ria (railway),Railway,1,Option 1: Extreme Viaduct on Current Alignment (10 km),SSP2-4.5,+Geoid,150000000,200000000,250000000,2035,2036,2038
+Aveiro Ria (railway),Railway,1,Option 1: Extreme Viaduct on Current Alignment (10 km),SSP2-4.5,Baseline,150000000,200000000,250000000,2044,2047,2049
+Aveiro Ria (railway),Railway,1,Option 1: Extreme Viaduct on Current Alignment (10 km),SSP5-8.5,+Geoid,150000000,200000000,250000000,2033,2035,2036
+Aveiro Ria (railway),Railway,1,Option 1: Extreme Viaduct on Current Alignment (10 km),SSP5-8.5,Baseline,150000000,200000000,250000000,2040,2043,2044
+Aveiro Ria (railway),Railway,2,Opt 2: Coastal barrier,SSP1-2.6,+Geoid,80000000,110000000,140000000,2032,2034,2036
+Aveiro Ria (railway),Railway,2,Opt 2: Coastal barrier,SSP1-2.6,Baseline,80000000,110000000,140000000,2042,2046,2049
+Aveiro Ria (railway),Railway,2,Opt 2: Coastal barrier,SSP2-4.5,+Geoid,80000000,110000000,140000000,2031,2033,2034
+Aveiro Ria (railway),Railway,2,Opt 2: Coastal barrier,SSP2-4.5,Baseline,80000000,110000000,140000000,2038,2041,2043
+Aveiro Ria (railway),Railway,2,Opt 2: Coastal barrier,SSP5-8.5,+Geoid,80000000,110000000,140000000,2031,2032,2033
+Aveiro Ria (railway),Railway,2,Opt 2: Coastal barrier,SSP5-8.5,Baseline,80000000,110000000,140000000,2036,2038,2040
+Aveiro Ria (railway),Railway,3,Opt 3: Eastern bypass,SSP1-2.6,+Geoid,280000000,380000000,480000000,2042,2046,2049
+Aveiro Ria (railway),Railway,3,Opt 3: Eastern bypass,SSP1-2.6,Baseline,280000000,380000000,480000000,2060,2065,2070
+Aveiro Ria (railway),Railway,3,Opt 3: Eastern bypass,SSP2-4.5,+Geoid,280000000,380000000,480000000,2039,2042,2044
+Aveiro Ria (railway),Railway,3,Opt 3: Eastern bypass,SSP2-4.5,Baseline,280000000,380000000,480000000,2050,2054,2057
+Aveiro Ria (railway),Railway,3,Opt 3: Eastern bypass,SSP5-8.5,+Geoid,280000000,380000000,480000000,2037,2039,2040
+Aveiro Ria (railway),Railway,3,Opt 3: Eastern bypass,SSP5-8.5,Baseline,280000000,380000000,480000000,2045,2048,2050
+Faro–Olhão (railway),Railway,1a,Opt 1a: Elevated road (SSP2-4.5),SSP1-2.6,+Geoid,11900000,15900000,19900000,2101,2101,2101
+Faro–Olhão (railway),Railway,1a,Opt 1a: Elevated road (SSP2-4.5),SSP1-2.6,Baseline,11900000,15900000,19900000,2101,2101,2101
+Faro–Olhão (railway),Railway,1a,Opt 1a: Elevated road (SSP2-4.5),SSP2-4.5,+Geoid,11900000,15900000,19900000,2096,2101,2101
+Faro–Olhão (railway),Railway,1a,Opt 1a: Elevated road (SSP2-4.5),SSP2-4.5,Baseline,11900000,15900000,19900000,2101,2101,2101
+Faro–Olhão (railway),Railway,1a,Opt 1a: Elevated road (SSP2-4.5),SSP5-8.5,+Geoid,11900000,15900000,19900000,2072,2075,2077
+Faro–Olhão (railway),Railway,1a,Opt 1a: Elevated road (SSP2-4.5),SSP5-8.5,Baseline,11900000,15900000,19900000,2084,2087,2090
+Faro–Olhão (railway),Railway,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP1-2.6,+Geoid,18700000,24900000,31100000,2101,2101,2101
+Faro–Olhão (railway),Railway,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP1-2.6,Baseline,18700000,24900000,31100000,2101,2101,2101
+Faro–Olhão (railway),Railway,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP2-4.5,+Geoid,18700000,24900000,31100000,2101,2101,2101
+Faro–Olhão (railway),Railway,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP2-4.5,Baseline,18700000,24900000,31100000,2101,2101,2101
+Faro–Olhão (railway),Railway,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP5-8.5,+Geoid,18700000,24900000,31100000,2077,2080,2082
+Faro–Olhão (railway),Railway,1b,Opt 1b: Full reconstruction (SSP5-8.5),SSP5-8.5,Baseline,18700000,24900000,31100000,2089,2092,2095
+Faro–Olhão (railway),Railway,2,Opt 2: Barriers + drainage,SSP1-2.6,+Geoid,17900000,23850000,29800000,2101,2101,2101
+Faro–Olhão (railway),Railway,2,Opt 2: Barriers + drainage,SSP1-2.6,Baseline,17900000,23850000,29800000,2101,2101,2101
+Faro–Olhão (railway),Railway,2,Opt 2: Barriers + drainage,SSP2-4.5,+Geoid,17900000,23850000,29800000,2101,2101,2101
+Faro–Olhão (railway),Railway,2,Opt 2: Barriers + drainage,SSP2-4.5,Baseline,17900000,23850000,29800000,2101,2101,2101
+Faro–Olhão (railway),Railway,2,Opt 2: Barriers + drainage,SSP5-8.5,+Geoid,17900000,23850000,29800000,2078,2081,2083
+Faro–Olhão (railway),Railway,2,Opt 2: Barriers + drainage,SSP5-8.5,Baseline,17900000,23850000,29800000,2090,2093,2095
+Faro–Olhão (railway),Railway,3,Opt 3: Traffic mgmt,SSP1-2.6,+Geoid,700000,1000000,1300000,2059,2066,2071
+Faro–Olhão (railway),Railway,3,Opt 3: Traffic mgmt,SSP1-2.6,Baseline,700000,1000000,1300000,2086,2095,2101
+Faro–Olhão (railway),Railway,3,Opt 3: Traffic mgmt,SSP2-4.5,+Geoid,700000,1000000,1300000,2050,2054,2057
+Faro–Olhão (railway),Railway,3,Opt 3: Traffic mgmt,SSP2-4.5,Baseline,700000,1000000,1300000,2066,2072,2077
+Faro–Olhão (railway),Railway,3,Opt 3: Traffic mgmt,SSP5-8.5,+Geoid,700000,1000000,1300000,2045,2048,2050
+Faro–Olhão (railway),Railway,3,Opt 3: Traffic mgmt,SSP5-8.5,Baseline,700000,1000000,1300000,2055,2059,2061
+Leixões,Port,1,Opt 1: Flood-proofing,SSP1-2.6,+Geoid,35000000,47500000,60000000,2042,2045,2048
+Leixões,Port,1,Opt 1: Flood-proofing,SSP1-2.6,Baseline,35000000,47500000,60000000,2061,2067,2071
+Leixões,Port,1,Opt 1: Flood-proofing,SSP2-4.5,+Geoid,35000000,47500000,60000000,2038,2041,2043
+Leixões,Port,1,Opt 1: Flood-proofing,SSP2-4.5,Baseline,35000000,47500000,60000000,2051,2054,2056
+Leixões,Port,1,Opt 1: Flood-proofing,SSP5-8.5,+Geoid,35000000,47500000,60000000,2036,2038,2039
+Leixões,Port,1,Opt 1: Flood-proofing,SSP5-8.5,Baseline,35000000,47500000,60000000,2045,2047,2049
+Leixões,Port,2,Opt 2: Landside resilience,SSP1-2.6,+Geoid,20000000,27500000,35000000,2037,2040,2042
+Leixões,Port,2,Opt 2: Landside resilience,SSP1-2.6,Baseline,20000000,27500000,35000000,2053,2058,2061
+Leixões,Port,2,Opt 2: Landside resilience,SSP2-4.5,+Geoid,20000000,27500000,35000000,2035,2037,2038
+Leixões,Port,2,Opt 2: Landside resilience,SSP2-4.5,Baseline,20000000,27500000,35000000,2046,2048,2051
+Leixões,Port,2,Opt 2: Landside resilience,SSP5-8.5,+Geoid,20000000,27500000,35000000,2033,2035,2036
+Leixões,Port,2,Opt 2: Landside resilience,SSP5-8.5,Baseline,20000000,27500000,35000000,2041,2043,2045
+Leixões,Port,3,Opt 3: Operational protocol,SSP1-2.6,+Geoid,10000000,15000000,20000000,2036,2039,2042
+Leixões,Port,3,Opt 3: Operational protocol,SSP1-2.6,Baseline,10000000,15000000,20000000,2048,2054,2059
+Leixões,Port,3,Opt 3: Operational protocol,SSP2-4.5,+Geoid,10000000,15000000,20000000,2034,2036,2039
+Leixões,Port,3,Opt 3: Operational protocol,SSP2-4.5,Baseline,10000000,15000000,20000000,2043,2047,2050
+Leixões,Port,3,Opt 3: Operational protocol,SSP5-8.5,+Geoid,10000000,15000000,20000000,2033,2035,2036
+Leixões,Port,3,Opt 3: Operational protocol,SSP5-8.5,Baseline,10000000,15000000,20000000,2040,2043,2045
+Lisbon,Port,1,Opt 1: Flood-proofing,SSP1-2.6,+Geoid,30000000,40000000,50000000,2032,2033,2035
+Lisbon,Port,1,Opt 1: Flood-proofing,SSP1-2.6,Baseline,30000000,40000000,50000000,2044,2047,2049
+Lisbon,Port,1,Opt 1: Flood-proofing,SSP2-4.5,+Geoid,30000000,40000000,50000000,2031,2032,2033
+Lisbon,Port,1,Opt 1: Flood-proofing,SSP2-4.5,Baseline,30000000,40000000,50000000,2039,2041,2043
+Lisbon,Port,1,Opt 1: Flood-proofing,SSP5-8.5,+Geoid,30000000,40000000,50000000,2030,2031,2032
+Lisbon,Port,1,Opt 1: Flood-proofing,SSP5-8.5,Baseline,30000000,40000000,50000000,2036,2038,2039
+Lisbon,Port,2,Opt 2: Landside resilience,SSP1-2.6,+Geoid,25000000,35000000,45000000,2031,2033,2034
+Lisbon,Port,2,Opt 2: Landside resilience,SSP1-2.6,Baseline,25000000,35000000,45000000,2042,2046,2048
+Lisbon,Port,2,Opt 2: Landside resilience,SSP2-4.5,+Geoid,25000000,35000000,45000000,2030,2031,2032
+Lisbon,Port,2,Opt 2: Landside resilience,SSP2-4.5,Baseline,25000000,35000000,45000000,2038,2040,2042
+Lisbon,Port,2,Opt 2: Landside resilience,SSP5-8.5,+Geoid,25000000,35000000,45000000,2030,2030,2031
+Lisbon,Port,2,Opt 2: Landside resilience,SSP5-8.5,Baseline,25000000,35000000,45000000,2035,2037,2038
+Lisbon,Port,3,Opt 3: Operational protocol,SSP1-2.6,+Geoid,12000000,17000000,22000000,2030,2031,2033
+Lisbon,Port,3,Opt 3: Operational protocol,SSP1-2.6,Baseline,12000000,17000000,22000000,2036,2040,2042
+Lisbon,Port,3,Opt 3: Operational protocol,SSP2-4.5,+Geoid,12000000,17000000,22000000,2029,2031,2032
+Lisbon,Port,3,Opt 3: Operational protocol,SSP2-4.5,Baseline,12000000,17000000,22000000,2034,2037,2039
+Lisbon,Port,3,Opt 3: Operational protocol,SSP5-8.5,+Geoid,12000000,17000000,22000000,2029,2030,2031
+Lisbon,Port,3,Opt 3: Operational protocol,SSP5-8.5,Baseline,12000000,17000000,22000000,2033,2035,2036
+Mondego (railway),Railway,1,Opt 1: In-situ viaduct,SSP1-2.6,+Geoid,88000000,120000000,155000000,2035,2038,2040
+Mondego (railway),Railway,1,Opt 1: In-situ viaduct,SSP1-2.6,Baseline,88000000,120000000,155000000,2049,2053,2057
+Mondego (railway),Railway,1,Opt 1: In-situ viaduct,SSP2-4.5,+Geoid,88000000,120000000,155000000,2033,2035,2037
+Mondego (railway),Railway,1,Opt 1: In-situ viaduct,SSP2-4.5,Baseline,88000000,120000000,155000000,2043,2046,2049
+Mondego (railway),Railway,1,Opt 1: In-situ viaduct,SSP5-8.5,+Geoid,88000000,120000000,155000000,2032,2034,2035
+Mondego (railway),Railway,1,Opt 1: In-situ viaduct,SSP5-8.5,Baseline,88000000,120000000,155000000,2040,2042,2044
+Mondego (railway),Railway,2,Opt 2: Soure relocation,SSP1-2.6,+Geoid,124000000,176000000,228000000,2038,2042,2045
+Mondego (railway),Railway,2,Opt 2: Soure relocation,SSP1-2.6,Baseline,124000000,176000000,228000000,2054,2060,2065
+Mondego (railway),Railway,2,Opt 2: Soure relocation,SSP2-4.5,+Geoid,124000000,176000000,228000000,2036,2038,2041
+Mondego (railway),Railway,2,Opt 2: Soure relocation,SSP2-4.5,Baseline,124000000,176000000,228000000,2047,2050,2053
+Mondego (railway),Railway,2,Opt 2: Soure relocation,SSP5-8.5,+Geoid,124000000,176000000,228000000,2034,2036,2038
+Mondego (railway),Railway,2,Opt 2: Soure relocation,SSP5-8.5,Baseline,124000000,176000000,228000000,2043,2045,2047
+Mondego (railway),Railway,3,Opt 3: Alfarelos bypass,SSP1-2.6,+Geoid,218000000,319000000,420000000,2044,2049,2053
+Mondego (railway),Railway,3,Opt 3: Alfarelos bypass,SSP1-2.6,Baseline,218000000,319000000,420000000,2064,2072,2078
+Mondego (railway),Railway,3,Opt 3: Alfarelos bypass,SSP2-4.5,+Geoid,218000000,319000000,420000000,2040,2044,2047
+Mondego (railway),Railway,3,Opt 3: Alfarelos bypass,SSP2-4.5,Baseline,218000000,319000000,420000000,2053,2058,2062
+Mondego (railway),Railway,3,Opt 3: Alfarelos bypass,SSP5-8.5,+Geoid,218000000,319000000,420000000,2038,2040,2042
+Mondego (railway),Railway,3,Opt 3: Alfarelos bypass,SSP5-8.5,Baseline,218000000,319000000,420000000,2047,2050,2053
+Portimão/Arade (railway),Railway,A,Opt A: Managed retreat (NPV),SSP1-2.6,+Geoid,8900000,11550000,14200000,2101,2101,2101
+Portimão/Arade (railway),Railway,A,Opt A: Managed retreat (NPV),SSP1-2.6,Baseline,8900000,11550000,14200000,2101,2101,2101
+Portimão/Arade (railway),Railway,A,Opt A: Managed retreat (NPV),SSP2-4.5,+Geoid,8900000,11550000,14200000,2084,2089,2093
+Portimão/Arade (railway),Railway,A,Opt A: Managed retreat (NPV),SSP2-4.5,Baseline,8900000,11550000,14200000,2101,2101,2101
+Portimão/Arade (railway),Railway,A,Opt A: Managed retreat (NPV),SSP5-8.5,+Geoid,8900000,11550000,14200000,2065,2068,2070
+Portimão/Arade (railway),Railway,A,Opt A: Managed retreat (NPV),SSP5-8.5,Baseline,8900000,11550000,14200000,2078,2080,2083
+Portimão/Arade (railway),Railway,B,Opt B: Short viaduct,SSP1-2.6,+Geoid,18000000,24000000,30000000,2101,2101,2101
+Portimão/Arade (railway),Railway,B,Opt B: Short viaduct,SSP1-2.6,Baseline,18000000,24000000,30000000,2101,2101,2101
+Portimão/Arade (railway),Railway,B,Opt B: Short viaduct,SSP2-4.5,+Geoid,18000000,24000000,30000000,2098,2101,2101
+Portimão/Arade (railway),Railway,B,Opt B: Short viaduct,SSP2-4.5,Baseline,18000000,24000000,30000000,2101,2101,2101
+Portimão/Arade (railway),Railway,B,Opt B: Short viaduct,SSP5-8.5,+Geoid,18000000,24000000,30000000,2073,2076,2078
+Portimão/Arade (railway),Railway,B,Opt B: Short viaduct,SSP5-8.5,Baseline,18000000,24000000,30000000,2085,2088,2091
+Portimão/Arade (railway),Railway,C,Opt C: Realignment (TBD),SSP1-2.6,+Geoid,,,,,,
+Portimão/Arade (railway),Railway,C,Opt C: Realignment (TBD),SSP1-2.6,Baseline,,,,,,
+Portimão/Arade (railway),Railway,C,Opt C: Realignment (TBD),SSP2-4.5,+Geoid,,,,,,
+Portimão/Arade (railway),Railway,C,Opt C: Realignment (TBD),SSP2-4.5,Baseline,,,,,,
+Portimão/Arade (railway),Railway,C,Opt C: Realignment (TBD),SSP5-8.5,+Geoid,,,,,,
+Portimão/Arade (railway),Railway,C,Opt C: Realignment (TBD),SSP5-8.5,Baseline,,,,,,
+Setúbal,Port,1,Opt 1: Flood-proofing,SSP1-2.6,+Geoid,20000000,30000000,40000000,2032,2035,2037
+Setúbal,Port,1,Opt 1: Flood-proofing,SSP1-2.6,Baseline,20000000,30000000,40000000,2045,2049,2053
+Setúbal,Port,1,Opt 1: Flood-proofing,SSP2-4.5,+Geoid,20000000,30000000,40000000,2031,2033,2034
+Setúbal,Port,1,Opt 1: Flood-proofing,SSP2-4.5,Baseline,20000000,30000000,40000000,2040,2043,2045
+Setúbal,Port,1,Opt 1: Flood-proofing,SSP5-8.5,+Geoid,20000000,30000000,40000000,2030,2032,2033
+Setúbal,Port,1,Opt 1: Flood-proofing,SSP5-8.5,Baseline,20000000,30000000,40000000,2037,2039,2041
+Setúbal,Port,2,Opt 2: Landside resilience,SSP1-2.6,+Geoid,15000000,22500000,30000000,2031,2033,2035
+Setúbal,Port,2,Opt 2: Landside resilience,SSP1-2.6,Baseline,15000000,22500000,30000000,2042,2046,2049
+Setúbal,Port,2,Opt 2: Landside resilience,SSP2-4.5,+Geoid,15000000,22500000,30000000,2030,2032,2033
+Setúbal,Port,2,Opt 2: Landside resilience,SSP2-4.5,Baseline,15000000,22500000,30000000,2038,2041,2043
+Setúbal,Port,2,Opt 2: Landside resilience,SSP5-8.5,+Geoid,15000000,22500000,30000000,2030,2031,2032
+Setúbal,Port,2,Opt 2: Landside resilience,SSP5-8.5,Baseline,15000000,22500000,30000000,2035,2037,2039
+Setúbal,Port,3,Opt 3: Operational protocol,SSP1-2.6,+Geoid,8000000,11500000,15000000,2030,2032,2033
+Setúbal,Port,3,Opt 3: Operational protocol,SSP1-2.6,Baseline,8000000,11500000,15000000,2037,2041,2044
+Setúbal,Port,3,Opt 3: Operational protocol,SSP2-4.5,+Geoid,8000000,11500000,15000000,2030,2031,2032
+Setúbal,Port,3,Opt 3: Operational protocol,SSP2-4.5,Baseline,8000000,11500000,15000000,2035,2038,2040
+Setúbal,Port,3,Opt 3: Operational protocol,SSP5-8.5,+Geoid,8000000,11500000,15000000,2029,2030,2031
+Setúbal,Port,3,Opt 3: Operational protocol,SSP5-8.5,Baseline,8000000,11500000,15000000,2033,2036,2037
+Tagus floodplain (railway),Railway,1,Option 1: Viaduct on Current Alignment,SSP1-2.6,+Geoid,120000000,160000000,200000000,2050,2055,2058
+Tagus floodplain (railway),Railway,1,Option 1: Viaduct on Current Alignment,SSP1-2.6,Baseline,120000000,160000000,200000000,2073,2079,2085
+Tagus floodplain (railway),Railway,1,Option 1: Viaduct on Current Alignment,SSP2-4.5,+Geoid,120000000,160000000,200000000,2045,2047,2050
+Tagus floodplain (railway),Railway,1,Option 1: Viaduct on Current Alignment,SSP2-4.5,Baseline,120000000,160000000,200000000,2058,2062,2066
+Tagus floodplain (railway),Railway,1,Option 1: Viaduct on Current Alignment,SSP5-8.5,+Geoid,120000000,160000000,200000000,2041,2043,2045
+Tagus floodplain (railway),Railway,1,Option 1: Viaduct on Current Alignment,SSP5-8.5,Baseline,120000000,160000000,200000000,2051,2053,2055
+Tagus floodplain (railway),Railway,2,Opt 2: Flood barriers,SSP1-2.6,+Geoid,30000000,42500000,55000000,2036,2039,2041
+Tagus floodplain (railway),Railway,2,Opt 2: Flood barriers,SSP1-2.6,Baseline,30000000,42500000,55000000,2048,2053,2057
+Tagus floodplain (railway),Railway,2,Opt 2: Flood barriers,SSP2-4.5,+Geoid,30000000,42500000,55000000,2034,2036,2038
+Tagus floodplain (railway),Railway,2,Opt 2: Flood barriers,SSP2-4.5,Baseline,30000000,42500000,55000000,2043,2046,2049
+Tagus floodplain (railway),Railway,2,Opt 2: Flood barriers,SSP5-8.5,+Geoid,30000000,42500000,55000000,2033,2034,2036
+Tagus floodplain (railway),Railway,2,Opt 2: Flood barriers,SSP5-8.5,Baseline,30000000,42500000,55000000,2040,2042,2044
+Tagus floodplain (railway),Railway,3,Opt 3: Track relocation,SSP1-2.6,+Geoid,150000000,215000000,280000000,2054,2060,2065
+Tagus floodplain (railway),Railway,3,Opt 3: Track relocation,SSP1-2.6,Baseline,150000000,215000000,280000000,2078,2087,2094
+Tagus floodplain (railway),Railway,3,Opt 3: Track relocation,SSP2-4.5,+Geoid,150000000,215000000,280000000,2047,2051,2054
+Tagus floodplain (railway),Railway,3,Opt 3: Track relocation,SSP2-4.5,Baseline,150000000,215000000,280000000,2062,2067,2072
+Tagus floodplain (railway),Railway,3,Opt 3: Track relocation,SSP5-8.5,+Geoid,150000000,215000000,280000000,2043,2046,2048
+Tagus floodplain (railway),Railway,3,Opt 3: Track relocation,SSP5-8.5,Baseline,150000000,215000000,280000000,2053,2056,2058
