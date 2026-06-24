@@ -1,0 +1,9 @@
+station,model,what_it_is,trained_on_years,tested_on_years,test_error_mm,then_prediction_2100_m
+Leixoes,Straight-line baseline,"Not machine learning — the simplest possible reference line, so we have something familiar to compare against.",1956-2012 (40 yrs),2013-2022 (10 yrs),46.6,7.17
+Leixoes,Gaussian Process Regression,"Genuine ML. Learns the trend AND how confident to be — confidence shrinks near known years, grows the further it guesses into the future.",1956-2012 (40 yrs),2013-2022 (10 yrs),47.0,7.172
+Leixoes,Support Vector Regression,"Genuine ML. Learns the trend while deliberately ignoring small year-to-year noise, so a few unusual years do not throw it off.",1956-2012 (40 yrs),2013-2022 (10 yrs),48.6,7.196
+Leixoes,Random Forest,"Genuine ML — but the WRONG tool here on purpose, to prove the point: it cannot guess beyond years it has already seen, so it just freezes.",1956-2012 (40 yrs),2013-2022 (10 yrs),51.9,7.111
+Sines,Straight-line baseline,"Not machine learning — the simplest possible reference line, so we have something familiar to compare against.",1977-2014 (31 yrs),2015-2022 (8 yrs),18.0,7.43
+Sines,Gaussian Process Regression,"Genuine ML. Learns the trend AND how confident to be — confidence shrinks near known years, grows the further it guesses into the future.",1977-2014 (31 yrs),2015-2022 (8 yrs),18.4,7.409
+Sines,Support Vector Regression,"Genuine ML. Learns the trend while deliberately ignoring small year-to-year noise, so a few unusual years do not throw it off.",1977-2014 (31 yrs),2015-2022 (8 yrs),14.8,7.441
+Sines,Random Forest,"Genuine ML — but the WRONG tool here on purpose, to prove the point: it cannot guess beyond years it has already seen, so it just freezes.",1977-2014 (31 yrs),2015-2022 (8 yrs),27.5,7.172
