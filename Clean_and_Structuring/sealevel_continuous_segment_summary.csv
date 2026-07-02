@@ -1,0 +1,19 @@
+station,model,can_extrapolate_trend,segment_period,n_segment_years,train_period,n_train_years,test_period,n_test_years,rmse_mm,mae_mm,r2_test,prediction_2100_m,change_vs_last_observed_mm
+Leixões,Linear Regression,True,2003–2022,19,2003–2017,14,2018–2022,5,22.0,18.5,-1.174,7.432,288.7
+Leixões,Ridge Regression,True,2003–2022,19,2003–2017,14,2018–2022,5,23.6,20.3,-1.502,7.414,271.4
+Leixões,K-Nearest Neighbors,False,2003–2022,19,2003–2017,14,2018–2022,5,26.9,22.4,-2.264,7.119,-23.5
+Leixões,Support Vector Regression,True,2003–2022,19,2003–2017,14,2018–2022,5,34.8,32.6,-4.472,7.511,368.0
+Leixões,Random Forest,False,2003–2022,19,2003–2017,14,2018–2022,5,41.0,38.2,-6.574,7.133,-9.8
+Leixões,Decision Tree,False,2003–2022,19,2003–2017,14,2018–2022,5,46.6,44.2,-8.808,7.143,0.0
+Leixões,Gradient Boosting,False,2003–2022,19,2003–2017,14,2018–2022,5,46.6,44.2,-8.793,7.143,-0.4
+Leixões,Lasso Regression,True,2003–2022,19,2003–2017,14,2018–2022,5,47.3,44.9,-9.078,7.086,-56.6
+Leixões,Gaussian Process Regression,True,2003–2022,19,2003–2017,14,2018–2022,5,48.3,46.3,-9.506,7.396,252.7
+Sines,Gaussian Process Regression,True,1997–2022,26,1997–2017,21,2018–2022,5,7.1,5.4,0.547,7.563,371.9
+Sines,Support Vector Regression,True,1997–2022,26,1997–2017,21,2018–2022,5,10.4,8.5,0.027,7.56,369.5
+Sines,Ridge Regression,True,1997–2022,26,1997–2017,21,2018–2022,5,10.5,8.6,0.01,7.568,377.7
+Sines,Linear Regression,True,1997–2022,26,1997–2017,21,2018–2022,5,13.2,11.8,-0.578,7.585,394.7
+Sines,Decision Tree,False,1997–2022,26,1997–2017,21,2018–2022,5,20.0,17.0,-2.594,7.191,0.0
+Sines,Gradient Boosting,False,1997–2022,26,1997–2017,21,2018–2022,5,20.0,17.0,-2.61,7.19,-0.4
+Sines,Random Forest,False,1997–2022,26,1997–2017,21,2018–2022,5,21.4,18.7,-3.142,7.186,-4.4
+Sines,K-Nearest Neighbors,False,1997–2022,26,1997–2017,21,2018–2022,5,26.8,24.6,-5.456,7.176,-15.1
+Sines,Lasso Regression,True,1997–2022,26,1997–2017,21,2018–2022,5,60.3,59.4,-31.739,7.128,-63.0

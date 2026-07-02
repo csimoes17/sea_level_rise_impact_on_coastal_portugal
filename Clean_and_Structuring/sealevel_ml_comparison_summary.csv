@@ -1,0 +1,13 @@
+station,model,family,r2_train,aic,bic,cv_rmse_mm,forecast_2100_m,forecast_2100_std_mm,change_vs_last_obs_mm
+Leixoes,Linear OLS,Statistical baseline,0.1465,-294.6,-290.7,34.01,7.17,,27.5
+Leixoes,Polynomial (quadratic),Statistical baseline,0.1618,-293.5,-287.7,60.96,7.417,,273.9
+Leixoes,Piecewise (segmented),Statistical baseline,0.1921,-293.3,-285.7,53.8,7.494,,351.1
+Leixoes,Gaussian Process Regression,Machine learning,0.1483,,,41.8,7.172,49.7,29.3
+Leixoes,Support Vector Regression (linear),Machine learning,0.1283,,,35.54,7.196,,53.1
+Leixoes,Random Forest (bagged trees),Machine learning (negative example),0.6076,,,36.69,7.111,,-31.5
+Sines,Linear OLS,Statistical baseline,0.7794,-285.1,-281.8,29.97,7.43,,238.8
+Sines,Polynomial (quadratic),Statistical baseline,0.8329,-293.9,-288.9,27.53,8.177,,986.7
+Sines,Piecewise (segmented),Statistical baseline,0.8484,-295.7,-289.1,27.87,7.601,,410.1
+Sines,Gaussian Process Regression,Machine learning,0.7864,,,31.74,7.409,67.5,218.5
+Sines,Support Vector Regression (linear),Machine learning,0.7784,,,28.87,7.441,,250.2
+Sines,Random Forest (bagged trees),Machine learning (negative example),0.9129,,,28.35,7.172,,-18.7
