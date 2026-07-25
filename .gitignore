@@ -1,10 +1,7 @@
 .DS_Store
-**/__pycache__/
-*.pyc
-~$*
-Arquivo.zip
-dem_portugal_merged.tif
-COP DEM 1.tif
 COP DEM 2.tif
 Continente_CAOP2024_1.gpkg
-_overpass_cache_*.json
+EOFcat > .gitignore << 'EOF'
+.DS_Store
+COP DEM 2.tif
+Continente_CAOP2024_1.gpkg
